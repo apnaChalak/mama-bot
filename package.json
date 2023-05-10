@@ -1,0 +1,17 @@
+{
+  "name": "chalak-bot-training",
+  "version": "1.0.0",
+  "description": "Mama: a Ai bot for farmers",
+  "main": "index.js",
+  "author": "Dheeraj",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@pinecone-database/pinecone": "^0.0.14",
+    "@supabase/supabase-js": "^2.21.0",
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "langchain": "^0.0.72",
+    "openai": "^3.2.1"
+  }
+}
